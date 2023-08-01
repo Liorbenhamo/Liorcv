@@ -1,0 +1,63 @@
+.Doublecardlior{
+    cursor: default;
+    user-select: none;
+    font-family: 'system-ui', sans-serif;
+   
+    max-width:550px;
+    --carousel-dot-color: #FFFFFF;
+    --tall-unit-height: calc((var(--unit) * 2) + var(--grid-gap));
+    --tall-unit-width: var(--unit);
+    --long-unit-height: var(--unit);
+    --long-unit-width: calc((var(--unit) * 2) + var(--grid-gap));
+    --large-unit-height: calc((var(--unit) * 2) + var(--grid-gap));
+    --large-unit-width: calc((var(--unit) * 2) + var(--grid-gap));
+    --mini-unit-height: calc(var(--unit) / 2);
+    --mini-unit-width: calc(var(--unit) / 2);
+    --title-gradient: linear-gradient(to right, #FFB6C1, #87CEFA);
+    --background-color: #f5f5f5;
+    --tile-background-color: #ffffff;
+    --main-text-color: #000000;
+    --secondary-text-color: #444444;
+    --tertiary-text-color: #c2c2c2;
+    --tile-boxshadow-color: rgba(0, 0, 0, 0.25);
+    --spotify-background: #1DB954;
+    --spotify-text: #191414;
+    --spotify-tertiary-text-color: #191414;
+    --spotify-last-played-color: #ffffff;
+    --spotify-song-text: #191414;
+    --fa-style-family-brands: "Font Awesome 6 Brands";
+    --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+    --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Free";
+    --fa-style-family-classic: "Font Awesome 6 Free";
+    --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Free";
+    background-color: var(--tile-background-color);
+    font-weight: bolder;
+    color: var(--main-text-color);
+    box-shadow: 0 0 15px var(--tile-boxshadow-color);
+    border-radius: 20px;
+    transition: 200ms ease-in-out;
+    overflow: hidden;
+    grid-row: span 1;
+    grid-column: span 2;
+    height: var(--long-unit-height);
+    width: var(--long-unit-width);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    margin: 70px;
+}
+.Doublecardlior:hover { 
+    transform: scale(1.1); 
+    }
+.padding{
+    padding: 15px;
+}
+.colorheader{
+    background-image: var(--title-gradient);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
