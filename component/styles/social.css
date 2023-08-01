@@ -44,6 +44,7 @@
     justify-content: center;
     align-items: center;
     background-color: #0077B5;
+    margin: 10px;
 
 }
 .tile:hover { 
