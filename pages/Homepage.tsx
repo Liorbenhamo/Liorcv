@@ -1,7 +1,7 @@
 import Doublecard from "../component/Doublecard";
 import Card from "../component/Card"
 import Contact from "../component/Contact"
-import Linkdin from "../component/linkdin"
+import Linkdin from "../component/Linkdin"
 import "./homepage.css"
 import photo from "../img/CYBERPRO.svg"
 import Instgram from "../component/Instgram"
