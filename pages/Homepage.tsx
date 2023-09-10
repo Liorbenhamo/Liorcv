@@ -44,20 +44,20 @@ function Homepage() {
         <div className="second-part">
             <div className="myflex">
             <div><Doublecard header={"Learningjs"} par={" teaching app that you can chose js category all the categories lead to the same routh but filter the excrcises by diffrent titles,you can pick excrcises and you get a mission to create a function in small window like vsc after pressing check you can see under the vsc window keep trying if you solved it wrong and keep going if you correct additionally you can hover cards under the check button and get hints if it is not enough you can ask the bot questions and he will give you the closest answer from the net and will give you links to sites that teacing this subject"}/></div>
-            <a target="_blank" href="https://fourth-commit--lustrous-yeot-8d0b13.netlify.app/"><div><Siteimgs img1={img1} img2={img2} img3={img3} img4={img4}/></div></a>
+            <a target="_blank" href="https://jstheacher.netlify.app/"><div><Siteimgs img1={img1} img2={img2} img3={img3} img4={img4}/></div></a>
             </div>
             </div>
             <div className="second-part">
             <div className="myflex">
             <div><Doublecard header={"School project"} par={"student user example=username:johnsmith, password:johnsmith teacher user example=username:mrmartinez, password:mrmartinez manger user example=username:headmastersmith, password:headmastersmith school app that include 3 kinds of users student can search teachers by subject and in his profile send him a message that will apeer in his personal area or press the whatsup button and it open whatapp in chat with that teacher. teacher can serchstudent by name and send him homework pdf that the student will see in his personal area the teacher can see the student info as well like studyadjustment hobbies activeties and grafh of his missing in every month. manger is the only one that can change the calnder in the home page add events and delete furthermore every one who enter the site can see most of the site and can send email to the school manger about things to improve in school "}/></div>
-            <a target="_blank" href="https://64c8b0ff81b57e48ef6ed5aa--symphonious-mandazi-08d55b.netlify.app/"><div><Siteimgs img1={img5} img2={img6} img3={img7} img4={img8}/></div></a>
+            <a target="_blank" href="https://kfargalimschool.netlify.app"><div><Siteimgs img1={img5} img2={img6} img3={img7} img4={img8}/></div></a>
             </div>
             </div>
         <div>
         <div className="second-part">
             <div className="myflex">
             <div><Doublecard header={"Gym project"} par={"username:liorbenhamo, password:0502730029. but you can also register to the gym app and you will get code to your email yo verfy your accuont log in you have a subscribtion page where you can see all the deals picking the one for you and enter credit card that will update in your user ,you have section with img that is spread to a lot of musale group each press on musale group will give you ten exercise of that spaciphic musale group,body fat section to by honest it is not working because i didnt use a real calculate algorithem but it will give you by the outcome workout by your body fat if you want to see exampele use this 45,45,45,43. and last we have calnder that i made by myself that work exacly like every calnder and you can sign to your wanted pilates class"}/></div>
-            <div><a target="_blank" href="https://64929b118e2aac2051a6a9ff--serene-rabanadas-547a94.netlify.app/"><Siteimgs img1={img9} img2={img10} img3={img11} img4={img12}/></a></div>
+            <div><a target="_blank" href="https://gymoflior.netlify.app"><Siteimgs img1={img9} img2={img10} img3={img11} img4={img12}/></a></div>
             </div>
             </div>
             <div className="second-part">
